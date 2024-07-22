@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto';
+}
+
+nav {
+    background-color: #28A745;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@media (min-width: 576) {
+    nav div a img {
+        width: 8rem;
+    }
+}
+
+@media (max-width: 577px) {
+    nav div a img {
+        width: 6rem;
+    }
+
+}
+
+
+.estiloPromo {
+    color: #28A745;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.estiloStandard {
+    color: #707070;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+h5 {
+    color: #212529;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+@media (max-width:576px) {
+    .anchoCentrado {
+        width: 18rem;
+    }
+}
+
+.colorVerde{
+    background-color: #28A745;
+}
+
+footer div img {
+    width:8rem;
+}
