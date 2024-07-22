@@ -1,2 +1,2 @@
-# web-cuppon
+# Bootcamp FullStack JS
 Ejercicio Web Cuppon
